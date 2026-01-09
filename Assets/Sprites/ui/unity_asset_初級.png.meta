@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ccd6491f3d6a15d48be9705a11106a3e
+guid: 874c652cf45551245854da081c92e6f3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2108046656447976876
-    second: soba_icon_original_0
+      213: 1973472884382766415
+    second: "unity_asset_\u521D\u7D1A_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: soba_icon_original_0
+      name: "unity_asset_\u521D\u7D1A_0"
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 2048
-        height: 2048
+        width: 640
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 45ae7702cb6beb2e0800000000000000
-      internalID: -2108046656447976876
+      spriteID: f451087e12f236b10800000000000000
+      internalID: 1973472884382766415
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      soba_icon_original_0: -2108046656447976876
+      "unity_asset_\u521D\u7D1A_0": 1973472884382766415
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

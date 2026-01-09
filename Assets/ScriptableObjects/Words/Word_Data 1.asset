@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b84272399f559494983ac383176c5678, type: 3}
-  m_Name: Word_Data
+  m_Name: Word_Data 1
   m_EditorClassIdentifier: Assembly-CSharp::Sobada.Data.WordData
-  romajiText: soba
-  displayText: "\u305D\u3070"
+  romajiText: shinshu
+  displayText: "\u3057\u3093\u3057\u3085\u3046"
   scoreValue: 100
   difficulty: 1

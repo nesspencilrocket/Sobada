@@ -15,6 +15,7 @@ MonoBehaviour:
   groupName: "\u521D\u7D1A\u30D5\u30A7\u30FC\u30BA1"
   description: "3\u301C5\u6587\u5B57\u306E\u7C21\u5358\u306A\u5358\u8A9E"
   words:
-  - {fileID: 0}
+  - {fileID: 11400000, guid: dfdb6ba099cc7e944b269e21ce8f8d89, type: 2}
+  - {fileID: 11400000, guid: b6dd7ed4fae6ef0488fd57296d2561ac, type: 2}
   minWordLength: 0
   maxWordLength: 100
